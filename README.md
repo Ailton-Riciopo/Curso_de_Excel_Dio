@@ -1,5 +1,5 @@
 # Curso_de_Excel_Dio
-## Respositorio para armazenar projetos do curso de Excel da Dio
+## Respositório para armazenar projetos do curso de Excel da Dio
 
 Este **README** foi criado como parte da entrega do primeiro projeto do curso de Excel com Inteligencia Artificial ministrado pela Dio.
 
