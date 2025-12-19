@@ -8,3 +8,6 @@ Todo o material de apoio estará disponível neste repositório.
 
 
 *Ailton Sergio Alves Riciopo*
+
+**19/12/2025**
+
