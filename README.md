@@ -34,7 +34,7 @@ Aqui devem ser informados todos os rendimentos provenientes de alugueis (Pessoas
 
 Aqui devem ser informados os saldos bancários com a posição do último dia do exercício do ano fiscal anterior e do último dia do exercício do ano fiscal corrente
 
-![5 - Painel de Despesas Médicas Dedutíveis](https://github.com/Ailton-Riciopo/Curso_de_Excel_Dio/blob/main/images/Saldos_Bancarios.png)
+![5 - Painel de Despesas Médicas Dedutíveis](https://github.com/Ailton-Riciopo/Curso_de_Excel_Dio/blob/main/images/Despesas_Bancarios.png)
 
 Aqui devem ser informados todas as despesas médicas desutíveis da Declaração Anual de Ajuste do IRPF.  Atentar para a declaração correta de Prestador Pessoa Física ou Jurídica, bem como se parte da despesa é reembolsada por algum plano de saúde.
 
