@@ -51,7 +51,14 @@ Aqui devem ser informados todas as despesas médicas desutíveis da Declaração
 ![5 - Painel de Despesas Médicas Dedutíveis](https://github.com/Ailton-Riciopo/Curso_de_Excel_Dio/blob/main/images/Despesas.png)
 
 
+## Projeto Dio: Dashboard XBOX GAME Pass Subscriptions Sales - dashboard_xbox_Projeto.xlsx ##
+
+O Dashboard permite o acompanhamento das subscrições de jogos XBox, em especial EA Play Season e Minecraft Season nos planos anuais, trimestrais e mensais, com detalhes do tipo de plano 
+
+![Dashboard](https://github.com/Ailton-Riciopo/Curso_de_Excel_Dio/blob/main/images/Dash_Informações.png)
+
+
 *Ailton Sergio Alves Riciopo*
 
-**26/12/2025**
+**30/12/2025**
 
